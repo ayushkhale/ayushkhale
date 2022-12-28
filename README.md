@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushkhale
 - 👀 I’m interested in more of android devlopment
-- 🌱 I’m currently learning C, python and some basics of ui/ux .
+- 🌱 I’m currently learning C++, python and some basics of ui/ux .
 - 💞️ I’m looking to collaborate on Open CV projects.
 - 📫 How to reach me ayushhkhale@gmail.com
 
