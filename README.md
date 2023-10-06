@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img src="https://i.gifer.com/7rbR.gif" alt="gif" width="40" height="40" align="center"/>
+<img src=["https://i.gifer.com/7rbR.gif"] alt="gif" width="40" height="40" align="center"/>
 
 - 🔭 I’m currently working on **CanteenCravings**
 
