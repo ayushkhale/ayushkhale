@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Khale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkhale&show_icons=true&locale=en&layout=compact" alt="ayushkhale" /></p>
+<p><img align="center" src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif" alt="ayushkhale" /></p>
 
 <p align="left"> <a href="https://twitter.com/ayushkhale" target="blank"><img src="https://img.shields.io/twitter/follow/ayushkhale?logo=twitter&style=for-the-badge" alt="ayushkhale" /></a> </p>
 
