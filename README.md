@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="center" src="https://user-images.githubusercontent.com/2548061/34311659-72980896-e767-11e7-9f8f-a01ad4c09338.gif" alt="ayushkhale" height="80" width="300" />
+<img align="center" src="https://media1.giphy.com/media/l0HlGmv4WqldO9c5y/giphy.gif?cid=6c09b952pp1ex8wwyt5l9gv4avt7g9aloewwe38v7r3mpgvp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ayushkhale" height="80" width="300" />
+
+
 
 - 🔭 I’m currently working on **CanteenCravings**
 
