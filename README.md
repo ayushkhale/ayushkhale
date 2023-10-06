@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Khale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![giphy align="center" ](https://github.com/ayushkhale/ayushkhale/assets/110109305/26cf1ef9-c423-4feb-9ab7-d6b4ac21c9af)
+![hadouken](https://github.com/ayushkhale/ayushkhale/assets/110109305/a1934182-9939-439a-9b70-c278efdfabd6)
+
 
 
 <p align="left"> <a href="https://twitter.com/ayushkhale" target="blank"><img src="https://img.shields.io/twitter/follow/ayushkhale?logo=twitter&style=for-the-badge" alt="ayushkhale" /></a> </p>
