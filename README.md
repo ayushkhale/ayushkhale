@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Khale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![7rbR](https://github.com/ayushkhale/ayushkhale/assets/110109305/689d8d0b-9082-48bd-b231-779ab4e25e7e)
 
-<img src=["https://i.gifer.com/7rbR.gif"] alt="gif" width="40" height="40" align="center"/>
 
 - 🔭 I’m currently working on **CanteenCravings**
 
