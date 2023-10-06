@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Khale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![hadouken](https://github.com/ayushkhale/ayushkhale/assets/110109305/a1934182-9939-439a-9b70-c278efdfabd6)
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkhale&show_icons=true&locale=en&layout=compact" alt="ayushkhale" /></p>
 
 <p align="left"> <a href="https://twitter.com/ayushkhale" target="blank"><img src="https://img.shields.io/twitter/follow/ayushkhale?logo=twitter&style=for-the-badge" alt="ayushkhale" /></a> </p>
 
