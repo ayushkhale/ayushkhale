@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Khale</h1>
 <h3 align="center">Coder , Graphic Person</h3>
 
-<p><img align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="ayushkhale" width="100%"/></p>
 
 
 -  I’m currently working on **CanteenCravings**
