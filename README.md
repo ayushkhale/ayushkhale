@@ -6,9 +6,9 @@
 
 -  I’m currently working on **CanteenCravings**
 
--  I’m currently learning **ReactJS , DSA**
+-  I’m currently learning **ReactNative , DSA**
   
--  You Can Ask me about **WebDev, Blockchain, Ui/Ux**
+-  You Can Ask me about **Android, WebDev, Blockchain, Ui/Ux**
   
 -  Fun fact : **No One Really Knows How To Center a Div !**
   
