@@ -1,18 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Khale</h1>
-<h3 align="center">Coder , Graphic Person</h3>
-
-
-
--  I’m currently working on **Token Based Mess System**
-
--  I’m currently learning **ReactNative , DSA**
-  
--  You Can Ask me about **Android, WebDev, Blockchain, Ui/Ux**
-  
--  Fun fact : **No One Really Knows How To Center a Div !**
-
--  Reach me at **ayushhkhale@gmail.com**
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
