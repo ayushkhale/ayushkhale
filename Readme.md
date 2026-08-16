@@ -84,17 +84,6 @@ QR-based restaurant ordering and kitchen management SaaS platform. React + TypeS
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayushkhale&show_icons=true&theme=default&hide_border=true&title_color=1E293B&text_color=334155&icon_color=0F172A&bg_color=00000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkhale&layout=compact&hide_border=true&title_color=1E293B&text_color=334155&bg_color=00000000" width="30%" />
-
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
