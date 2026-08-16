@@ -81,9 +81,3 @@ QR-based restaurant ordering and kitchen management SaaS platform. React + TypeS
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" width="100%"/>
-</div>
