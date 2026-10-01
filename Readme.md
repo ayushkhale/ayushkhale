@@ -20,7 +20,7 @@
 
 ## About
 
-Building production mobile products end to end — from architecture to Play Store release — at **Compunic Pvt. Ltd.**, a software and digital solutions company based in Indore, India.
+Building production mobile products end to end — from architecture to Play Store release.
 
 Focused on **React Native**, with working exposure across backend, cloud infrastructure, and SaaS product design. Also involved in business development outreach, technical documentation, and shaping new SaaS products from concept to build.
 
